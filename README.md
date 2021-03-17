@@ -15,5 +15,7 @@ To run locally, do the usual:
     sudo apt-get install python3-tk
     
 #. Run::
-chmod +x ./CryptoTxt.py 
-./CryptoTxt.py
+
+    chmod +x ./CryptoTxt.py 
+    ./CryptoTxt.py
+     
